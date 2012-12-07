@@ -1,0 +1,19 @@
+{
+  "name": "ep_bidi",
+  "version": "0.0.1",
+  "description": "Adds support of bi-directional text to etherpad lite letting the user choose between rtl and ltr.",
+  "main": "bidi.js",
+  "repository": {
+    "type": "git",
+    "url": "git://www.github.com/Tux-Tn/ep_bidi.git"
+  },
+  "author": {
+    "name": "Tux-Tn",
+    "email": "sarhanaissi@gmail.com"
+  },
+  "licenses": {
+      "type": "GPLv3",
+      "url": "https://www.github.com/Tux-Tn/ep_bidi/master/LICENSE"
+  },
+  "engines": {"node": "*"}
+}
