@@ -1,6 +1,6 @@
 {
   "name": "ep_bidi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds support of bi-directional text to etherpad lite letting the user choose between rtl and ltr.",
   "main": "bidi.js",
   "repository": {
